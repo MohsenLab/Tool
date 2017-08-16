@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appId="TestApp"> 
-        <version>2.0.0.0</version> 
+    <update appId="ToolBigBycoorre_12"> 
+        <version>4.0.0.0</version> 
         <url>https://raw.githubusercontent.com/MohsenLab/Tool/master/ToolBigBycoorre_12.exe</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
